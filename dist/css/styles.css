@@ -5,7 +5,8 @@ body {
   background-attachment: fixed; }
 
 a:link {
-  text-decoration: none; }
+  text-decoration: none;
+  color: white; }
 
 a:visited {
   text-decoration: none;
