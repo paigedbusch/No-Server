@@ -1,0 +1,37 @@
+[
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/250x250/894017.jpg",
+        "id": 6,
+        "name": "Chicken Noodle Soup",
+        "ingredients": ["2 1/2 cups wide egg noodles", "1 teaspoon vegetable oil", "12 cups chicken broth", "1 1/2 tablespoons salt", "1 teaspoon poultry seasoning", "1 cup chopped celery", "1 cup chopped onion", "1/3 cup cornstarch", "1/4 cup water", "3 cups diced, cooked chicken meat"],
+        "instructions": ["Bring a large pot of lightly salted water to a boil. Add egg noodles and oil, and boil for 8 minutes, or until tender. Drain, and rinse under cool running water.", "In a large saucepan or Dutch oven, combine broth, salt, and poultry seasoning. Bring to a boil. Stir in celery and onion. Reduce heat, cover, and simmer 15 minutes.", "In a small bowl, mix cornstarch and water together until cornstarch is completely dissolved. Gradually add to soup, stirring constantly. Stir in noodles and chicken, and heat through."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/560x315/878056.jpg",
+        "id": 7,
+        "name": "Macaroni Salad",
+        "ingredients": ["4 cups uncooked elbow macaroni", "1 cup mayonnaise", "1/4 cup distilled white vinegar", "2/3 cup white sugar", "2 1/2 tablespoons prepared yellow mustard", "1 1/2 teaspoons salt", "1/2 teaspoon ground black pepper", "1 large onion, chopped", "2 stalks celery, chopped", "1 green bell pepper, seeded and chopped", "1/4 cup grated carrot", "2 tablespoons chopped pimento peppers"],
+        "instructions": ["Bring a large pot of lightly salted water to a boil. Add the macaroni, and cook until tender, about 8 minutes. Rinse under cold water and drain.", "In a large bowl, mix together the mayonnaise, vinegar, sugar, mustard, salt and pepper. Stir in the onion, celery, green pepper, carrot, pimentos and macaroni. Refrigerate for at least 4 hours before serving, but preferably overnight."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/250x250/951720.jpg",
+        "id": 8,
+        "name": "Ponzu Chicken Sandwich",
+        "ingredients": ["1 cup prepared ponzu sauce", "1 cup chopped fresh cilantro", "1/2 cup pineapple juice", "4 fresh mint leaves, chopped", "4 cloves garlic, crushed", "1 tablespoon grated fresh ginger", "1 tablespoon toasted sesame oil", "1 tablespoon chili oil", "1 teaspoon brown sugar", "3 skinless, boneless chicken breast halves, cut into chunks", "1 tablespoon olive oil", "1 onion, sliced", "1 red bell pepper, sliced", "1 jalapeno pepper, sliced", "salt and freshly ground black pepper to taste", "1 small head cabbage, shredded", "4 Italian-style hoagie buns, split lengthwise and toasted", "12 slices Swiss cheese", "1/4 cup chopped fresh cilantro, divided", "1 tablespoon sesame seeds, divided", "1 tablespoon chile-garlic sauce, divided", "1 lime, cut into wedges"],
+        "instructions": ["Preheat oven to 500 degrees F. Combine ponzu sauce, 1 cup cilantro, pineapple juice, mint leaves, garlic, fresh ginger, sesame oil, chili oil, and brown sugar together in a large bowl. Add chicken and toss to coat.", "Remove chicken from ponzu sauce mixture, reserving marinade. Heat large pot or Dutch oven over medium-high heat. Add chicken and cook, stirring frequently, until browned, about 5 minutes. Stir in olive oil, onion, red bell pepper, jalapeno pepper, salt, and black pepper. Cook and stir until onion has softened and turned translucent, about 5 minutes.", "Pour reserved marinade into chicken mixture and bring to a boil. Stir in cabbage and cook until slightly wilted, 4 to 5 minutes. Using a slotted spoon, transfer chicken mixture into toasted hoagie buns and top each sandwich with 3 slices Swiss cheese.", "Place sandwiches onto a baking sheet and bake in the preheated oven until cheese is melted and buns are toasted, about 5 minutes. Garnish each sandwich with 2 tablespoons cilantro, 1/4 of the sesame seeds, and 1/4 of the chile-garlic sauce. Serve with lime wedges."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/250x250/641449.jpg",
+        "id": 9,
+        "name": "Black Bean Burritos",
+        "ingredients": ["2 10-inch flour tortillas", "2 tablespoons vegetable oil", "1 small onion, chopped", "1/2 red bell pepper, chopped", "1 teaspoon minced garlic", "1 15-ounce can black beans, rinsed and drained", "1 teaspoon minced jalapeno peppers", "3 ounces cream cheese", "1/2 teaspoon salt", "2 tablespoons chopped fresh cilantro"],
+        "instructions": ["Wrap tortillas in foil and place in oven heated to 350 degrees F (175 degrees C). Bake for 15 minutes or until heated through.", "Heat oil in a 10-inch skillet over medium heat. Place onion, bell pepper, garlic and jalapenos in skillet, cook for 2 minutes stirring occasionally. Pour beans into skillet, cook 3 minutes stirring.", "Cut cream cheese into cubes and add to skillet with salt. Cook for 2 minutes stirring occasionally. Stir cilantro into mixture. Spoon mixture evenly down center of warmed tortilla and roll tortillas up. Serve immediately."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/250x250/129378.jpg",
+        "id": 10,
+        "name": "Buffalo Style Chicken Pizza",
+        "ingredients": ["3 skinless, boneless chicken breast halves, cooked and cubed", "2 tablespoons butter, melted", "1 2-ounce bottle hot sauce", "1 8-ounce bottle blue cheese salad dressing", "1 16-inch prepared pizza crust", "1 8-ounce package shredded mozzarella cheese"],
+        "instructions": ["Preheat oven to 425 degrees F. In a medium bowl combine the cubed chicken, melted butter and hot sauce. Mix well. Spread whole bottle of salad dressing over crust, then top with chicken mixture and sprinkle with shredded cheese.", "Bake in preheated oven until crust is golden brown and cheese is bubbly, about 5 to 10 minutes. Let set a few minutes before slicing, and serve."]
+    }
+]

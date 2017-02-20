@@ -1,0 +1,12 @@
+<div ng-repeat='item in recipe'>
+    <h1>>> {{item.name}} <<</h1>
+    <img class='img' ng-src='{{item.img}}'>
+    <h2>< Ingredients ></h2>
+    <div class='ingredients' >
+    <p id='ingredient' ng-repeat='ingredient in item.ingredients'>{{ingredient}}</p>
+    </div>
+    <h2>< Instructions ></h2>
+    <div class='instructions'>
+    <p ng-repeat='instruction in item.instructions'>{{instruction}}</p>
+    </div>
+</div>

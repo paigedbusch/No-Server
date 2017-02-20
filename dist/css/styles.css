@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css?family=Kristi|Open+Sans");
+body {
+  background: url("bg-bowls.jpg") no-repeat center;
+  background-size: auto;
+  background-attachment: fixed; }
+
+a:link {
+  text-decoration: none; }
+
+a:visited {
+  text-decoration: none;
+  color: gray; }
+
+.ng-scope {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+h1 {
+  font-family: "Kristi", cursive;
+  font-size: 7vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  letter-spacing: .35vw; }
+
+h2 {
+  font-family: "Kristi", cursive;
+  font-size: 5vw;
+  color: white;
+  display: flex;
+  justify-content: center; }
+
+.categories {
+  width: 80vw;
+  height: 80vw;
+  margin-left: auto;
+  margin-top: -6vw;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around; }
+
+.breakfast {
+  font-family: "Kristi", cursive;
+  font-size: 4vw;
+  letter-spacing: .14vw;
+  color: white;
+  height: 10vw;
+  width: 35vw;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.lunch {
+  font-family: "Kristi", cursive;
+  font-size: 4vw;
+  letter-spacing: .14vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -12vw; }
+
+.dinner {
+  font-family: "Kristi", cursive;
+  font-size: 4vw;
+  letter-spacing: .14vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -12vw; }
+
+.dessert {
+  font-family: "Kristi", cursive;
+  font-size: 4vw;
+  letter-spacing: .14vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -12vw; }
+
+.recipe {
+  font-family: "Kristi", cursive;
+  font-size: 4vw;
+  letter-spacing: .14vw;
+  color: white;
+  display: flex;
+  justify-content: center; }
+
+.img {
+  border-style: solid;
+  border-color: white;
+  border-width: .18vw;
+  border-radius: .35vw;
+  height: 35vw; }
+
+.ingredients {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+
+#ingredient {
+  font-family: 'Open-Sans', sans-serif;
+  font-size: 1.5vw; }
+
+.instructions {
+  font-family: 'Open-Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 15vw;
+  margin-top: -3.82vw;
+  margin-right: 15vw; }
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 12vw;
+    text-align: center; }
+  h2 {
+    font-size: 11vw;
+    text-align: center; }
+  .breakfast, .lunch, .dinner, .dessert, .recipe {
+    font-size: 9vw;
+    text-align: center; }
+  #ingredient, .instructions {
+    font-size: 3.5vw;
+    text-align: center; } }

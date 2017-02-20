@@ -1,0 +1,6 @@
+<h1>>> Breakfast <<</h1>
+<div ng-repeat='breakfastRecipe in breakfast'>
+    <ul>
+        <p class='recipe'><a ui-sref='recipe({meal: meal, id: breakfastRecipe.id})'>< {{breakfastRecipe.name}} ></p><br>
+    </ul>
+</div>

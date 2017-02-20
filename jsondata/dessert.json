@@ -1,0 +1,37 @@
+[
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/560x315/479561.jpg",
+        "id": 16,
+        "name": "Lemon Pie Bars",
+        "ingredients": ["2 1/4 cups all-purpose flour", "1/2 cup confectioners' sugar", "1 cup butter, softened", "4 eggs", "1/ 1/2 cups white sugar", "1/2 cup lemon juice", "1 tablespoon lemon zest"],
+        "instructions": ["Preheat oven to 350 degrees F. Mix 2 cups of flour and confectioner's sugar together. Cut in the butter or margarine. Mix well until the dough resembles pie dough consistency. Press the dough into a 9x13 inch baking pan.", "Bake 15 to 20 minutes or until golden brown. Beat together eggs, sugar, 4 tablespoons flour, lemon juice and lemon rind for at least 1 minute. Pour the mixture over the baked crust.", "Bake the bars another 20 minutes, or until the lemon topping has set. Sprinkle with confectioner's sugar when cooled."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/560x315/1107530.jpg",
+        "id": 17,
+        "name": "Chocolate Chip Cookies",
+        "ingredients": ["2 cups all-purpose flour", "1/2 teaspoon baking soda", "1/2 teaspoon salt", "3/4 cup unsalted butter, melted", "1 cup packed brown sugar", "1/2 cup white sugar", "1 tablespoon vanilla extract", "1 egg", "1 egg yolk", "2 cups semisweet chocolate chips"],
+        "instructions": ["Preheat oven to 325 degrees F. Grease cookie sheets or line with parchment paper. Sift together the flour, baking soda, and salt. Set aside.", "In a medium bowl, cream together the melted butter, brown sugar and white sugar until well blended. Beat in the vanilla, egg, and egg yolk until light and creamy. Mix in the sifted ingredients until just blended. Stir in the chocolate chips by hand using a wooden spoon. Drop cookie dough 1/4 cup at a time onto the prepared cookie sheets. Cookies should be about 3 inches apart.", "Bake for 15 to 17 minutes in the preheated oven, or until the edges are lightly toasted. Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/560x315/736203.jpg",
+        "id": 18,
+        "name": "Apple Pie",
+        "ingredients": ["1 recipe pastry for a 9-inch double crust pie", "1/2 cup unsalted butter", "3 tablespoons all-purpose flour", "1/4 cup water", "1/2 cup white sugar", "1/2 cup packed brown sugar", "8 Granny Smith apples, peeled, cored, and sliced"],
+        "instructions": ["Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.", "Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.", "Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F. Continue baking for 35 to 45 minutes, until apples are soft."]
+    },
+    {
+        "img": "http://images.media-allrecipes.com/userphotos/560x315/730824.jpg",
+        "id": 19,
+        "name": "New York Cheesecake",
+        "ingredients": ["15 graham crackers, crushed", "2 tablespoons butter, melted", "4 8-ounce packages cream cheese", "1 1/2 cups white sugar", "3/4 cup milk", "4 eggs", "1 cup sour cream", "1 tablespoon vanilla extract", "1/4 cup all-purpose flour"],
+        "instructions": ["Preheat oven to 350 degrees F. Grease a 9-inch springform pan. In a medium bowl, mix graham cracker crumbs with melted butter. Press onto bottom of springform pan.", "In a large bowl, mix cream cheese with sugar until smooth. Blend in milk, and then mix in the eggs one at a time, mixing just enough to incorporate. Mix in sour cream, vanilla and flour until smooth. Pour filling into prepared crust.", "Bake in preheated oven for 1 hour. Turn the oven off, and let cake cool in oven with the door closed for 5 to 6 hours; this prevents cracking. Chill in refrigerator until serving."]
+    },
+    {
+        "img":"http://images.media-allrecipes.com/userphotos/560x315/358859.jpg",
+        "id": 20,
+        "name": "Brownies",
+        "ingredients": ["1 cup butter, melted", "3 cups white sugar", "1 tablespoon vanilla extract", "4 eggs", "1 1/2 cups all-purpose flour", "1 cup unsweetened cocoa powder", "1 teaspoon salt", "1 cup semisweet chocolate chips"],
+        "instructions": ["Preheat oven to 350 degrees F. Lightly grease a 9x13 baking dish. Combine the melted butter, sugar, and vanilla in a large bowl. Beat in the eggs, one at a time, mixing well after each, until thoroughly blended.", "Sift the flour, cocoa powder, and salt in a bowl. Gradually stir flour mixture into the egg mixture until blended. Stir in the chocolate morsels. Spread the batter evenly into the prepared baking dish.", "Bake in preheated oven until an inserted toothpick comes out clean, 35 to 40 minutes. Remove, and cool pan on wire rack before cutting."]
+    }
+]
